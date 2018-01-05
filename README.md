@@ -1,7 +1,8 @@
 ![header](images/header.jpg)
 ![pathsubtract](images/cover.jpg)
 
-#PathSubtract
+# PathSubtract   
+
 [![Behance](https://img.shields.io/badge/Behance-%40creold-0055FF.svg)](https://behance.net/creold) [![Dribbble](https://img.shields.io/badge/Dribbble-%40creold-DF3A7A.svg)](https://dribbble.com/creold) [![Instagram](https://img.shields.io/badge/Instagram-%40serg_osokin-8034B2.svg)](https://www.instagram.com/serg_osokin/)
 
 This script subtracts closed & filled objects from unfilled paths. Pathfinder panel in Adobe Illustrator does not support this function. 
