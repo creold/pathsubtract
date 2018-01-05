@@ -7,7 +7,7 @@
 
 This script subtracts closed & filled objects from unfilled paths. Pathfinder panel in Adobe Illustrator does not support this function. 
 
-<a href="https://github.com/creold/pathsubtract/archive/master.zip">
+<a href="http://bit.ly/2CWhjLo">
   <img width="160" height="49" src="images/download.png">
 </a>
 
@@ -21,7 +21,7 @@ This script subtracts closed & filled objects from unfilled paths. Pathfinder pa
 	- Windows (64 bit): `C:\Program Files\Adobe\Adobe Illustrator [vers.] (64 Bit)\Presets\en_GB\Scripts\`
 3. Restart Illustrator
 
-[Download archive]: https://github.com/creold/pathsubtract/archive/master.zip 
+[Download archive]: http://bit.ly/2CWhjLo 
 
 ## Usage 
 
