@@ -29,10 +29,13 @@ This script subtracts closed & filled objects from unfilled paths. Pathfinder pa
 3. Run script `File → Scripts → PathSubtract`
 3. Choose to leave paths or cut from your lines
 
-###Demo 01
+### Demo 01   
+
 Selected objects can be grouped.  
-![pathsubtract](images/demo-01.gif)
-###Demo 02
+![pathsubtract](images/demo-01.gif)   
+
+### Demo 02   
+
 A script can split a closed path into a series of lines. The Pathfinder panel in this case only subtracts the shape of the upper objects.  
 ![pathsubtract](images/demo-02.gif)
 
