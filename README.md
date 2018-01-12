@@ -15,7 +15,7 @@ This script subtracts closed & filled objects from unfilled paths. Pathfinder pa
 ## Installation 
 
 1. [Download archive] and unzip   
-2. Place `PathSubtract.jsx` in the Illustrator Scripts folder:
+2. Place `PathSubtract.jsx` & `PathSubtract-Light.jsx` in the Illustrator Scripts folder:
 	- OS X: `/Applications/Adobe Illustrator [vers.]/Presets.localized/en_GB/Scripts`
 	- Windows (32 bit): `C:\Program Files (x86)\Adobe\Adobe Illustrator [vers.]\Presets\en_GB\Scripts\`
 	- Windows (64 bit): `C:\Program Files\Adobe\Adobe Illustrator [vers.] (64 Bit)\Presets\en_GB\Scripts\`
@@ -39,6 +39,11 @@ Selected objects can be grouped.
 
 A script can split a closed path into a series of lines. The Pathfinder panel in this case only subtracts the shape of the upper objects.  
 ![pathsubtract](images/demo-02.gif)
+
+### Demo 03   
+
+Run script `File → Scripts → PatSubtract-Light.jsx` for subtracting lines according to the top shape.  
+![pathsubtract](images/demo-03.jpg)
 
 ## System Requirements
 
